@@ -1,4 +1,5 @@
 # funky-trees
+Decision Trees
 
 # Problem:
 Using the WI_Breast_Cancer csv file, create a new notebook to build a decision tree classifier that would be able to detect whether a tumor is benign or malignant.
